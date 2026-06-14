@@ -1,0 +1,6 @@
+Es importante que las plataformas tecnologicas comunitarias funcionen estable y segura en un servidor porque de ellas depende la comunicacion y participacion de las personas.
+Si el servidor se cae, la comunidad pierde acceso a informacion y servicios.
+Si no es seguro, los datos personales pueden ser robados o manipulados.
+Un servidor estable con monitoreo de logs garantiza disponibilidad 24/7.
+Un servidor seguro con puertos correctos y actualizaciones protege la privacidad.
+Esto genera confianza y permite que la comunidad interactue sin interrupciones ni riesgos.
